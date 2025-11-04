@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Iae, me chamo **Davidys Pontes**.
 
-<!--
-**DavidysPnts/DavidysPnts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cursando **Ciência de Dados e Inteligência Artificial (CDIA) na UFPB**
 
-Here are some ideas to get you started:
+Gosto de explorar o que está por trás dos dados, entender como os algoritmos pensam e descobrir formas criativas de resolver problemas.
+Ainda estou aprendendo — e isso é o que mais me motiva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+💡 **Aprendendo sobre:**
+Python (incluindo bibliotecas), C, Git.
+
+🧠 **Interesses:**
+Ciência de Dados, IA, Machine Learning, Cybersecurity, Neurotecnologia.
+
+🛠️ **Ferramentas que uso:**
+Windows · VS Code · Git · Github
+
+---
+
+🔗 [LinkedIn](www.linkedin.com/in/davidyspontes)
+
+---
+
+> “Todo projeto começa pequeno.”
