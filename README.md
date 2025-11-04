@@ -18,8 +18,9 @@ Windows · VS Code · Git · Github
 
 ---
 
-✉️ E-mail: davidys.pontes@icloud.com
-🔗 [LinkedIn](www.linkedin.com/in/davidyspontes)
+📫 **Entre em contato comigo:**  
+✉️ **E-mail:** [davidyspontes@exemplo.com](mailto:davidyspontes@exemplo.com) <br>
+🔗 **LinkedIn:** [linkedin.com/in/davidyspontes](https://www.linkedin.com/in/davidyspontes)
 
 ---
 
