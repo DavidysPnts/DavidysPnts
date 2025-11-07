@@ -8,13 +8,13 @@ Ainda estou aprendendo — e isso é o que mais me motiva.
 ---
 
 💡 **Aprendendo sobre:**
-Python (e suas bibliotecas), C, Git.
+Biblitecas Python · C · Git
 
 🧠 **Interesses:**
-Ciência de Dados, IA, Machine Learning, Cybersecurity, Neurotecnologia.
+Ciência de Dados · IA · Machine Learning · Cybersecurity · Neurotecnologia
 
 🛠️ **Ferramentas que uso:**
-Windows · VS Code · Git · Github
+Windows · VS Code · Git · Github · Python
 
 ---
 
