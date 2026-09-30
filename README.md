@@ -8,13 +8,13 @@ Ainda estou aprendendo — e isso é o que mais me motiva.
 ---
 
 💡 **Aprendendo sobre:**
-Biblitecas Python · C++ · java · Git
+EDO · Eng de Dados · Machine Learning · Automação · Visão Computacional · SQL
 
 🧠 **Interesses:**
-Ciência de Dados · IA · Machine Learning · Cybersecurity · PLN
+Ciência de Dados · IA · Machine Learning · Visão Computacional
 
 🛠️ **Ferramentas que uso:**
-Windows · Linux · VSCode · Git · Github · Python · C · C++
+Linux · VSCode · Git/Github · Python · C · C++ · SQL · Colab
 
 ---
 
