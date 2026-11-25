@@ -14,7 +14,7 @@ EDO · Eng de Dados · Machine Learning · Automação · Visão Computacional �
 Ciência de Dados · IA · Machine Learning · Visão Computacional
 
 🛠️ **Ferramentas que uso:**
-Linux · VSCode · Git/Github · Python · C · C++ · SQL · Colab
+Linux · VSCode · Git/Github · Python · SQL · Docker · Colab
 
 ---
 
